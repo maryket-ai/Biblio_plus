@@ -6,7 +6,7 @@
       <ul class="app-header__nav">
         <li><RouterLink to="/">Accueil</RouterLink></li>
         <li><RouterLink to="/catalogue">Catalogue</RouterLink></li>
-        <li><RouterLink to="/ContactView">Contact</RouterLink></li>
+        <li><RouterLink to="/Contactview">Contact</RouterLink></li>
       </ul>
     </nav>
   </header>

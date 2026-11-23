@@ -4,6 +4,7 @@ import { ref, computed, onMounted } from 'vue'
 import SearchBar from '@/components/SearchBar.vue'
 import BookList from '@/components/BookList.vue'
 
+
 const books = ref([])
 const query = ref('')
 const selectedCategory = ref('Toutes')

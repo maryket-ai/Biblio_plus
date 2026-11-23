@@ -59,7 +59,7 @@ const emit = defineEmits(['toggle-favorite'])
   flex-direction: column;
   flex: 1;
   gap: 8px;
-  padding: 16px;
+  padding: 13px;
 }
 
 .book-card__title {
@@ -75,7 +75,63 @@ const emit = defineEmits(['toggle-favorite'])
   color: #777f78;
   font-size: 14px;
 }
+/* Statut de disponibilité */
+.book-card__status {
+  display: inline-flex;
+  align-self: flex-start;
+  margin: 8px 0 0;
+  padding: 6px 12px;
+  border-radius: 20px;
+  background: #e7f2e9;
+  color: #28613b;
+  font-size: 12px;
+  font-weight: 600;
+}
 
+/* Livre emprunté */
+.book-card__status--off {
+  background: #fbeaea;
+  color: #a33b3b;
+}
+/* Bouton favoris */
+.book-card__fav {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  align-self: flex-start;
+  gap: 6px;
+  margin-top: auto;
+  padding: 9px 14px;
+
+  background: transparent;
+  color: #315c43;
+  border: 1px solid #315c43;
+  border-radius: 8px;
+
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 600;
+
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.book-card__fav:hover {
+  background: #edf3ee;
+  transform: translateY(-2px);
+}
+
+/* État favori */
+.book-card__fav[aria-pressed="true"] {
+  background: #193b2b;
+  color: #ffffff;
+  border-color: #193b2b;
+}
+
+.book-card__fav:focus-visible {
+  outline: 3px solid #a7c8ae;
+  outline-offset: 3px;
+}
 /* Responsive */
 @media (max-width: 600px) {
   .book-card__cover {
