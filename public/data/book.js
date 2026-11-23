@@ -16,18 +16,18 @@
 "category": "Roman",
 "year": 1993,
 "available": true,
-"cover": "/covers/petit-prince.jpg",
-"summary": "enfqnt orphelin."
+"cover": "/covers/petit-jo.jpg",
+"summary": "enfant adopté à la naissance,puis orphelin à 12 ans. que lui reserve la vie?"
 },
 {
 "id": 3,
-"title": "Sous lq cendre le feu",
+"title": "Sous la cendre le feu",
 "author": "Evelyne Poudji",
 "category": "Roman",
 "year": 1999,
 "available": true,
-"cover": "/covers/petit-prince.jpg",
-"summary": "le visqge cqche de l'homme de sa vie"
+"cover": "/covers/cendre-feu.jpg",
+"summary": "le visage caché de l'homme de sa vie"
 },
 {
 "id": 4,
@@ -36,7 +36,7 @@
 "category": "Roman",
 "year": 2001,
 "available": true,
-"cover": "/covers/petit-prince.jpg",
+"cover": "/covers/pretendant.jpg",
 "summary": "entre traditions, amour et argent, une epreuve qui dit tout."
 },
 {
@@ -46,8 +46,8 @@
 "category": "Roman",
 "year": 2003,
 "available": true,
-"cover": "/covers/petit-prince.jpg",
-"summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+"cover": "/covers/Munyal.jpg",
+"summary": "contre la religion, la culture et la tradition, une femme se bat pour sa liberté et son amour."
 },
 {
 "id": 6,
@@ -56,7 +56,7 @@
 "category": "Roman",
 "year": 2001,
 "available": true,
-"cover": "/covers/petit-prince.jpg",
+"cover": "/covers/bonheur-dame.jpg",
 "summary": "Une histoire d'amour et de passion. Un destin i;probable pour une jeune femme et un homme au coeur ferme"
 },
 {
@@ -65,8 +65,8 @@
 "author": "Evelyne Poudji",
 "category": "Roman",
 "year": 2005,
-"available": true,
-"cover": "/covers/petit-prince.jpg",
+"available": false,
+"cover": "/covers/inconnue.jpg",
 "summary": "entre rencoeur et carma, qu'est ce qui peut chqnger un destin dejq trqce"
 },
 {
@@ -76,7 +76,7 @@
 "category": "theatre",
 "year": 1985,
 "available": true,
-"cover": "/covers/petit-prince.jpg",
+"cover": "/covers/Rudolph.jpg",
 "summary": "l'histoir passionnante de Rudolf Douala, un homme de foi et de courage. qui s'est batu jusqu'au bout"
 },
 {
@@ -86,7 +86,7 @@
 "category": "Poesie",
 "year": 1666,
 "available": true,
-"cover": "/covers/petit-prince.jpg",
+"cover": "/covers/misanthrope.jpg",
 "summary": "les mots ont des couleurm l'amour est une douceur."
 },
 {
@@ -96,7 +96,7 @@
 "category": "policier",
 "year": 2007,
 "available": true,
-"cover": "/covers/petit-prince.jpg",
+"cover": "/covers/millenium.jpg",
 "summary": "Accuse a tord depuis toute petite, la verite est un taxi lent qui fini toujours par arrive."
 },
 {
@@ -105,8 +105,8 @@
 "author": "Robert Kiyosaki",
 "category": "Finance",
 "year": 1997,
-"available": true,
-"cover": "/covers/petit-prince.jpg",
+"available": false,
+"cover": "/covers/riche-pauvre.jpg",
 "summary": "le contraste est grand entre les deux pères, l'un riche et l'autre pauvre. le choix est simple, mais la décision est difficile."
 },
 {

@@ -10,4 +10,17 @@ defineProps({
              :class="['btn', 'btn--' + variant]">
     <slot />
   </component>
-</template> 
+</template>
+
+<style scoped>
+.btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-size: 1rem;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+</style>
